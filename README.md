@@ -1,9 +1,4 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ekrem</h1>
-<ul>
-    <li><h3>I'm a 4th year computer engineering student.</h3></li>
-    <li><h3>I'm interested in <b>Frontend Development</b> and Web API. So <b>Angular</b> and <b>Asp .Net Core</b> are very interesting to me.</h3></li>    
-</ul>
-
 
 ## 🙋‍♂️ About Me
 
